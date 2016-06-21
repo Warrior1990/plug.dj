@@ -2,7 +2,7 @@
 "room":                "Dubstep, Dnb & Drumstep",
 "author":              "Warrior",
 "icon":                 null,
-"css":                  null,
+"css":                  "https://rawgit.com/Warrior1990/plug.dj/master/style.css",
 "rules": {
 "allowAutorespond": true,
 "allowAutowoot":    true,
