@@ -2,7 +2,7 @@
 "room":                "Dubstep, Dnb & Drumstep",
 "author":              "Warrior",
 "icon":                 null,
-"css":                  "https://rawgit.com/Warrior1990/plug.dj/master/style.css",
+"css":                 "https://rawgit.com/Warrior1990/plug.dj/master/style.css",
 "rules": {
 "allowAutorespond": true,
 "allowAutowoot":    true,
@@ -28,7 +28,7 @@
 },
 "images": {
 "background":       "https://i.imgur.com/o8U69An.jpg"
-"playback":          null,
+"playback" :          null,
 "admin":            "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
 "ambassador":       "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
 "host":             "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
