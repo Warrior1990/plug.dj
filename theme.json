@@ -15,15 +15,15 @@
 "ccc":{
 "admin": null,
 "ambassador": null,
-"host": "#5DB4FF",
-"cohost": "#5DB4FF",
-"manager": "#5DB4FF",
-"bouncer": "#5DB4FF",
-"rdj": "#5DB4FF",
-"subscriber": "#777F92",
+"host": null,
+"cohost": null,
+"manager": null,
+"bouncer": null,
+"rdj": null,
+"subscriber": null,
 "silversubscriber": null,
 "friend": null,
-"user": "#777F92"
+"user": null
 },
 "images":{
 "background": "https://i.imgur.com/o8U69An.jpg",
