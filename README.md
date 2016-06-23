@@ -1,7 +1,7 @@
 # plug.dj
 Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot. This repository's purpose is to facilitate this. You can fork the repository and customise the example script. When you have forked the repo, bookmark the following script, but change bscBot to your own github handle.
 
-javascript:(function(){$.getScript('null');})();
+javascript:(function(){$.getScript('https://rawgit.com/warrior1990/plug.dj/master/basicbot.js');})();
 
 If you are using your own hosting service for your script, swap the link with your own.
 
