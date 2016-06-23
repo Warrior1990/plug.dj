@@ -1,8 +1,7 @@
 {
 "room": "Chillout on plug.dj",
 "author": "Warrior",
-"icon": null 
-"css": "https://rawgit.com/warrior1990/plug.dj/master/style.css",
+"css": null,
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
@@ -14,20 +13,20 @@
 "forceSmartVote": false
 },
 "ccc":{
-"admin": "#42A5DC",
-"ambassador": "#84B423",
-"host": "#FF9B00",
-"cohost": "#F3508F",
-"manager": "#F3508F",
-"bouncer": "#F3508F",
-"rdj": "#5DB4FF",
-"subscriber": "#A1A6B3",
-"silversubscriber": "#A1A6B3",
-"friend": "#B35D88",
-"user": "#8B92A3",
+"admin": null,
+"ambassador": null,
+"host": "#0095FF",
+"cohost": "#38ACFF",
+"manager": "#7DC9FF",
+"bouncer": "#A8DBFF",
+"rdj": "#B3DFFF",
+"subscriber": "#FFA973",
+"silversubscriber": "#CCCCCC",
+"friend": null,
+"user": "#9299A8"
 },
 "images":{
-"background": "http://i.imgur.com/k9zVa92.png"
+"background": "http://i.imgur.com/k9zVa92.png",
 "playback": null,
 "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
 "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
