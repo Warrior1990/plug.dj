@@ -2,7 +2,106 @@
 "room": "Chillout on plug.dj",
 "author": "Warrior",
 "icon": null,
-"css": null,
+"css":  {
+        "font": [
+        ],
+        "import": [null],
+        "rule": {
+            "#chat .mention": {
+                "border": "1px solid #ac76ff",
+                "border-left": "0px !important",
+                "border-right": "0px !important",
+                "border-collapse": "collapse !important"
+            },
+            "#chat .mention.is-staff": {
+            },
+            "#chat .welcome": {               
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)",
+                "border": "1px solid #009cdd",
+                "border-left": "0px !important",
+                "border-right": "0px !important",
+                "font-weight": "bold !important"
+            },
+            "#room-name": {
+		  "color":"#ffffff",
+		  "font-weight":"900"
+		  },
+		  "#room-host": {
+		  "color":"#FF3300",
+		  "font-weight":"bold"
+		  },
+		  
+		  "#now-playing-media": {
+		  "color":"#ffffff",
+		  "font-weight":"900"
+		  },
+		  "#now-playing-dj": {
+		  "color":"#0080FF",
+		  "font-weight":"bold"
+		  },
+		  
+		  "#now-playing-time": {
+		  "color":"#FFA500",
+		  "font-weight":"bold"
+		  },
+		  "#volume": {
+		  "color":"#FACC2E",
+		  "font-weight":"bold"
+		  },
+            ".cm[data-cid^=\"5081120\"] .bdg": { 
+                "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
+            },
+            ".cm[data-cid^=\"5984511\"] .bdg": {
+                "background": "url('http://i.imgur.com/ogBLvCL.gif') !important"
+            },
+            ".cm[data-cid^=\"3547702\"] .bdg": {
+                "background": "url('http://i.imgur.com/ig0QLia.gif') !important"
+            },
+            ".cm[data-cid^=\"6002621\"] .bdg": {
+                "background": "url('http://i.imgur.com/lpdLgaK.gif') !important"
+            },
+            ".cm[data-cid^=\"6103177\"] .bdg": {
+                "background": "url('http://i.imgur.com/28qYobt.gif') !important"
+            },
+            ".cm[data-cid^=\"4837788\"] .bdg": {
+                "background": "url('http://i.imgur.com/kHWlpL9.png') !important"
+            },
+            ".cm[data-cid^=\"3628770\"] .bdg": {
+                "background": "url('http://i.imgur.com/9xIv2FU.gif') !important"
+            },
+            ".cm[data-cid^=\"11024557\"] .bdg": {
+                "background": "url('http://i.imgur.com/AecQpgY.gif') !important"
+            },
+            ".cm[data-cid^=\"6043139\"] .bdg": {
+                "background": "url('http://i.imgur.com/zKPTffk.gif') !important"
+            },
+            ".cm[data-cid^=\"3480419\"] .bdg": {
+                "background": "url('http://i.imgur.com/wNRcoQz.gif') !important"
+            },
+            ".cm[data-cid^=\"3631561\"] .bdg": {
+                "background": "url('http://i.imgur.com/LdSf8bl.gif') !important"
+            },
+             ".cm[data-cid^=\"6312450\"] .bdg": {
+                "background": "url('http://i.imgur.com/7DEyMa0.gif') !important"
+            },
+            ".cm[data-cid^=\"5984511\"]": {
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
+            },
+            ".cm[data-cid^=\"5984511\"]:nth-child(2n+1)": {
+                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
+            },
+             ".cm.moderation": {
+                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
+            },
+            ".cm.moderation": {
+                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
+            },
+
+            "#chat .nxnotif": {
+                "border": "0 !important"
+            }
+        }
+    },
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
