@@ -1,7 +1,7 @@
 {
 "room": "Chillout on plug.dj",
 "author": "Warrior",
-"icon": null,
+"icon": "http://www.icons101.com/icon_ico/id_36436/Mushroom__1UP.ico",
 "css": "https://rawgit.com/warrior1990/plug.dj/master/style.css",
 "rules":{
 "allowAutorespond": true,
