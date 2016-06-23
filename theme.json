@@ -1,7 +1,7 @@
 {
-"room": "MFE",
-"author": "MFE Staff",
-"css": "https://rawgit.com/MusicForEveryOne/mfe/master/style.css",
+"room": "Chillout on plug.dj",
+"author": "Warrior",
+"css": null,
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
@@ -26,7 +26,7 @@
 "user": "#9299A8"
 },
 "images":{
-"background": "http://i.imgur.com/aMSWa86.jpg",
+"background": "http://i.imgur.com/k9zVa92.png",
 "playback": null,
 "admin": null,
 "ambassador": null,
