@@ -294,19 +294,19 @@ font-weight: bold;
 border-radius: 20px;
 }
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span{
-color: #63A9E6 !important;
+color: #F3508F !important;
 }
 .icon-chat-cohost ~ .text > .name, .icon-chat-cohost ~ .from, .icon-chat-cohost ~ span{
-color: #63A9E6 !important;
+color: #F3508F !important;
 }
 .icon-chat-host ~ .text > .name, .icon-chat-host ~ .from, .icon-chat-host ~ span{
-color: #63A9E6 !important;
+color: #FF9B00 !important;
 }
 .icon-chat-bouncer ~ .text > .name, .icon-chat-bouncer ~ .from, .icon-chat-bouncer ~ span{
-color: #63A9E6 !important;
+color: #F3508F !important;
 }
 .icon-chat-dj ~ .text > .name, .icon-chat-dj ~ .from, .icon-chat-dj ~ span{
-color: #63A9E6 !important;
+color: #5DB4FF !important;
 }
 #playback .background{
 left: 3px;
