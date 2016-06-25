@@ -36,3 +36,38 @@ background: orange;
 }
 #plug-dj{
 background: #63A9E6;
+}
+#plug-menu{
+background: #63A9E6;
+}
+#plug-menu .legal{
+background: #63A9E6;
+}
+#settings{
+background: #63A9E6;
+}
+#settings .header{
+background: #63A9E6;
+}
+@media (max-width: 1600px){
+}
+.social-menu .icon-twitter,.social-menu .icon-facebook{
+opacity: 1;
+}
+#playlist-import:hover{
+background: #63A9E6;
+}
+#user-panel .score{
+background: #63A9E6;
+}
+#dj-button.is-locked .left,
+#dj-button.is-full .left,
+#dj-button .left,
+#dj-button.is-quit .left, 
+#dj-button.is-leave .left, 
+#dj-button.is-wait .left, 
+#dj-button.is-locked .left, 
+#dj-button.is-full .left{
+background: #63A9E6;
+border-radius: 6px;
+border-left-width: 5px;
