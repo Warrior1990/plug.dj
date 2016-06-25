@@ -1004,7 +1004,7 @@ height: 15px;
 }
 /*#####[HOST]#####*/
 .icon-chat-host {
-	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background: url(null);
 	background-position: 2px 0 !important;
 }
 .icon-chat-host + span,
@@ -1018,7 +1018,7 @@ height: 15px;
 }
 /*#####[CO-HOSTS]#####*/
 .icon-chat-cohost {
-	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background: url(null);
 	background-position: 2px 0 !important;
 }
 .icon-chat-cohost + span,
@@ -1027,7 +1027,7 @@ height: 15px;
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
-	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png);
+	background: url(null);
 	background-position: 2px 0 !important;
 }
 .icon-chat-manager + span,
@@ -1040,7 +1040,7 @@ height: 15px;
 }
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
-	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png);
+	background: url(null);
 	background-position: 1px 0 !important;
 }
 .icon-chat-bouncer + span,
@@ -1053,7 +1053,7 @@ height: 15px;
 }
 /*#####[DJ]#####*/
 .icon-chat-dj {
-	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
+	background: url(null);
 	background-position: 0 0 !important;
 }
 #user-lists .group.dj {
@@ -1066,7 +1066,7 @@ height: 15px;
 }
 /*#####[SUBS]#####*/
 .icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
-	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/crown.png);
+	background: url(null);
 	background-position: -1px 0 !important;
 }
 .icon-chat-subscriber + span {
