@@ -6,3 +6,33 @@ background-image: url('http://i.imgur.com/FrHLx1j.png');
 #your-active-playlist > .icon-check-purple{ 
 background: url('http://i.imgur.com/8StjGgk.png') !important; 
 top: 15px; 
+}
+#user-menu .item > .icon-history-white{ 
+background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+top: 12px; 
+}
+#footer-user .item > .icon-history-white{ 
+background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+top: 12px;
+}
+#dashboard .icon-grab{  
+background: url('http://i.imgur.com/Lh837G1.png');  
+}
+#room-settings .general-settings .option button.off{
+background: #5DB4FF;
+}
+#room-settings .general-settings .option.enabled>button.on{
+background: #5DB4FF;
+}
+/*NEDOKONČENE
+#user-lists .list.staff .group{
+background: orange;
+}*/
+#playlist-button{
+background: #63A9E6;
+}
+#app-header{
+background: orange;
+}
+#plug-dj{
+background: #63A9E6;
