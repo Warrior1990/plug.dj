@@ -1,1 +1,8 @@
 /*CSS has been made for Chillout on plug.dj Community*/
+
+.icon{ 
+background-image: url('http://i.imgur.com/FrHLx1j.png'); 
+}
+#your-active-playlist > .icon-check-purple{ 
+background: url('http://i.imgur.com/8StjGgk.png') !important; 
+top: 15px; 
