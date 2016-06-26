@@ -365,7 +365,8 @@ transition: width 2s;
 background-position: 0 -366px !important;
 width: 15px;
 height: 15px;
-}/*### [message] ###*/
+}
+/*### [message] ###*/
 #chat .cm {
 	background: hsla(220,10%,10%,0.8);
 	box-shadow: inset 1px 1px 1px 0 hsla(220,10%,20%,0.8);
