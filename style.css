@@ -1003,10 +1003,6 @@ height: 15px;
 	color: #000;
 }
 /*#####[HOST]#####*/
-.icon-chat-host {
-	background: url(null);
-	background-position: 2px 0 !important;
-}
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
@@ -1017,19 +1013,11 @@ height: 15px;
 	top: 1px;
 }
 /*#####[CO-HOSTS]#####*/
-.icon-chat-cohost {
-	background: url(null);
-	background-position: 2px 0 !important;
-}
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
 	color: #FF3300 !important;
 }
 /*#####[MANAGER]#####*/
-.icon-chat-manager {
-	background: url(null);
-	background-position: 2px 0 !important;
-}
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
@@ -1039,10 +1027,6 @@ height: 15px;
 	color: #0174DF;
 }
 /*#####[BOUNCER]#####*/
-.icon-chat-bouncer {
-	background: url(null);
-	background-position: 1px 0 !important;
-}
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
@@ -1052,10 +1036,6 @@ height: 15px;
 	color: #FACC2E;
 }
 /*#####[DJ]#####*/
-.icon-chat-dj {
-	background: url(null);
-	background-position: 0 0 !important;
-}
 #user-lists .group.dj {
 	color: #04B404;
 }
@@ -1065,10 +1045,6 @@ height: 15px;
 	color: #04B404 !important;
 }
 /*#####[SUBS]#####*/
-.icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
-	background: url(null);
-	background-position: -1px 0 !important;
-}
 .icon-chat-subscriber + span {
 	color: #FB3 !important;
 }
