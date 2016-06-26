@@ -1261,12 +1261,3 @@ height: 15px;
 #dialog-user-role .button.cancel span {
 	color: hsl(15,80%,50%);
 }
-[data-cid^="5984511-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://i.imgur.com/Ev3eqYz.gif);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto
-}
