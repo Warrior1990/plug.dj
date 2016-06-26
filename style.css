@@ -347,9 +347,6 @@ width: 15px;
 height: 15px;
 }
 /*--[user-menu]--*/
-#user-menu, #room-settings-menu, #playlist-menu {
-	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,0.2));
-}
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
 	background: linear-gradient(hsla(210,10%,7%,0.9), hsla(210,10%,5%,0.9)) !important;
 }
