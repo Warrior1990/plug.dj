@@ -358,18 +358,6 @@ height: 15px;
 	background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%));
 	box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4);
 }
-#room-settings .general-settings button, #room-settings .general-settings .option.enabled button.off {
-	background: linear-gradient(hsl(220,5%,20%), hsl(220,5%,10%)) !important;
-	box-shadow: inset 0 0 2px hsla(0,0%,100%,0.5) !important;
-}
-#room-settings .general-settings button:hover, #room-settings .general-settings .option.enabled button.off:hover {
-	background: linear-gradient(hsl(220,50%,20%), hsl(220,50%,10%)) !important;
-	box-shadow: inset 0 0 2px hsla(0,0%,100%,0.5) !important;
-}
-#room-settings .general-settings button.off, #room-settings .general-settings .option.enabled button.on {
-	background: linear-gradient(hsl(220,50%,40%), hsl(220,50%,30%)) !important;
-	box-shadow: inset 0 0 2px hsla(0,0%,100%,0.5) !important;
-}
 #user-settings .container button {
 	border-radius: 10px;
 	background: linear-gradient(hsl(0,70%,20%), hsl(0,70%,10%));
