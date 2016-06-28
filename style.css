@@ -1,5 +1,7 @@
 /*CSS has been made for Chillout on plug.dj Community*/
 
+@import url("https://rawgit.com/warrior1990/plug.dj/master/icons.css");
+
 /*--[welcome & log]--*/
 #chat .cm.welcome, #chat .log {
 	border-radius: 0;
