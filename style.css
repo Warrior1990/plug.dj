@@ -458,6 +458,56 @@ background: #c42e3b;
 #user-lists .list.room .user .icon-grab {
     right: 35px;
 }
+#tooltip span, #tooltip.blue span {
+	background: radial-gradient(hsla(210,100%,30%,0.9), hsla(220,100%,20%,0.9));
+	border-radius: 13px 13px 13px 0
+}
+#tooltip.orange span {
+	background: radial-gradient(hsla(20,100%,50%,0.9), hsla(10,100%,40%,0.9));
+}
+#tooltip.orange .corner {
+	border-top: 10px solid transparent !important;
+	border-right: 0px solid transparent !important;
+	border-left: 10px solid hsla(10,100%,45%,0.9) !important;
+	border-bottom: 10px solid transparent !important;
+}
+#tooltip.purple span {
+	background: radial-gradient(hsla(270,70%,60%,0.9), hsla(270,70%,50%,0.9));
+}
+#tooltip.purple .corner {
+	border-top: 10px solid transparent !important;
+	border-right: 0px solid transparent !important;
+	border-left: 10px solid hsla(270,70%,52%,0.9) !important;
+	border-bottom: 10px solid transparent !important;
+}
+#tooltip.purple.right .corner {
+	border-top: 10px solid hsla(270,70%,52%,0.9) !important;
+	border-right: 10px solid hsla(270,70%,52%,0.9) !important;
+	border-left: 10px solid transparent !important;
+	border-bottom: 10px solid transparent !important;
+}
+#tooltip.right span {
+	border-radius: 13px 13px 0 13px
+}
+#tooltip .corner {
+	border-top: 10px solid transparent !important;
+	border-right: 0px solid transparent !important;
+	border-left: 10px solid hsla(220,100%,22%,0.9) !important;
+	border-bottom: 10px solid transparent !important;
+}
+#tooltip.right .corner {
+	border-top: 10px solid hsla(220,100%,20%,0.9) !important;
+	border-right: 10px solid hsla(220,100%,22%,0.9) !important;
+	border-left: 10px solid transparent !important;
+	border-bottom: 10px solid transparent !important;
+}
+#playback-container {
+	box-shadow: 0 0 150px #0bf;
+	border-color: hsl(210,100%,40%) !important;
+	border-radius: 0 0 4px 4px;
+}
+#playback .background {
+	visibility: hidden;
 .app-header, #app-menu.in-room, #footer, #search {
 	background: linear-gradient(hsla(210,10%,20%,0.8), hsla(210,10%,10%,0.8));
 }
