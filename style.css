@@ -1,5 +1,9 @@
 /*CSS has been made for Chillout on plug.dj Community*/
 
+.icon-site-logo { 
+    background: url('null') repeat scroll 0% 0% transparent;
+    background-position: 0px 0px; 
+}
 /*--[welcome & log]--*/
 #chat .cm.welcome, #chat .log {
 	border-radius: 0;
